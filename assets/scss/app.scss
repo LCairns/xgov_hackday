@@ -1,0 +1,19 @@
+@import "$$theme";
+
+.phase-banner {
+  @include phase-banner(beta);
+}
+
+.welcome-content {
+  margin: 45px 0;
+
+  & ol {
+    list-style-type: decimal;
+    padding-left: 40px;
+
+    & ul {
+      list-style-type: lower-alpha;
+      padding-left: 40px;
+    }
+  }
+}

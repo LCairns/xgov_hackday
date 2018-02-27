@@ -1,0 +1,18 @@
+{
+  "name": {
+    "required": "Enter a name"
+  },
+  "dob": {
+    "required": "Enter a Date of Birth",
+    "numeric": "Enter a valid date",
+    "before": "Enter a valid date",
+    "date": "Enter a valid date"
+  },
+  "nino": {
+    "required": "Enter a National Insurance number",
+    "isNino": "NINO must be valid"
+  },
+  "choices": {
+    "required": "Select an option"
+  }
+}

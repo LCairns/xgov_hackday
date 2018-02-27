@@ -1,0 +1,29 @@
+{
+  "name": {
+    "label": "Name"
+  },
+  "dob": {
+    "legend": "Date of Birth"
+  },
+  "nino": {
+    "label": "National Insurance Number"
+  },
+  "choices": {
+    "legend": "Pick a response",
+    "options": {
+      "8ball": {
+        "label": "A Magic 8-Ball answer"
+      },
+      "lyric": {
+        "label": "A line from a song"
+      }
+      ,
+      "quote": {
+        "label": "A famous quote"
+      }
+    }
+  },
+  "question": {
+    "label": "Ask me anything"
+  }
+}

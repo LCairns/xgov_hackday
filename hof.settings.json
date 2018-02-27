@@ -1,0 +1,12 @@
+{
+  "theme": "govuk",
+  "routes": [
+    "./apps/XGOV-Hackday"
+  ],
+  "session": {
+    "name": "XGOV-Hackday.hof.sid"
+  },
+  "markdown": {
+    "fallbackLang": "en"
+  }
+}

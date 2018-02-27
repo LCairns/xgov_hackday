@@ -1,0 +1,14 @@
+{
+  "welcome": {
+    "header": "Welcome to my HOF form"
+  },
+  "name": {
+    "header": "Personal details"
+  },
+  "nino": {
+    "header": "Further details"
+  },
+  "choices": {
+    "header": "Pick a response"
+  }
+}
